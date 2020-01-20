@@ -1,2 +1,1 @@
-# nodejs
-nodejs small projects
+# simon game using js 
